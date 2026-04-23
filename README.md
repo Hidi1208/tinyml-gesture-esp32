@@ -144,7 +144,7 @@ Copy `inference_engine.h` into the `inference/` sketch folder. Update `MEANS` an
 ## Project Context
 
 Built as part of a TinyML portfolio project targeting embedded systems and robotics master's applications. Demonstrates the full pipeline from raw sensor data to on-device inference — data collection, model training, quantization, and bare-metal MCU deployment.
-```
+
 
 
 
