@@ -1,6 +1,4 @@
-Good. Here's your README — save this as `README.md` in your project folder, then commit and push it.
 
-```markdown
 # TinyML Gesture Recognition on ESP32
 
 A real-time gesture classification system using a 1D CNN trained on IMU time-series data, deployed on an ESP32 microcontroller with a custom C++ inference engine and zero external Arduino libraries.
